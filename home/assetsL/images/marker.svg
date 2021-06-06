@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="40.084px" viewBox="2 0 32 40.084" enable-background="new 2 0 32 40.084" xml:space="preserve">
+	<ellipse opacity="0.4" cx="18" cy="33.084" rx="5" ry="2"/>
+	<path class="pulse" fill="#EB354E" d="M18,40.084c-8.972,0-16-3.076-16-7s7.028-7,16-7s16,3.076,16,7S26.972,40.084,18,40.084z M18,27.16
+		c-8.113,0-14.968,2.713-14.968,5.924S9.887,39.008,18,39.008s14.968-2.713,14.968-5.924S26.113,27.16,18,27.16z"/>
+	<path fill="#EB354E" d="M18,0C11.384,0,6,5.421,6,12.086C6,21.558,17.537,31.589,18,32c0.462-0.412,12-10.442,12-19.914
+		C30,5.421,24.616,0,18,0z M18,18.666c-3.676,0-6.667-2.99-6.667-6.666S14.324,5.333,18,5.333c3.676,0,6.666,2.991,6.666,6.667
+		S21.676,18.666,18,18.666z"/>
+
+	<style>
+		.pulse {
+			-webkit-animation: pulse 1s ease-out infinite;
+			-moz-animation: pulse 1s ease-out infinite;
+			animation: pulse 1s ease-out infinite;
+			transform-origin: 18px 34px;
+		}
+
+		@keyframes pulse {
+			0% {
+				transform: scale(0.1);
+    			opacity: 0;
+			} 50% {
+				opacity: 1;
+			} 100% {
+				transform: scale(1);
+    			opacity: 0;
+			}
+		}
+
+		@-webkit-keyframes pulse {
+			0% {
+				transform: scale(0.1);
+    			opacity: 0;
+			} 50% {
+				opacity: 1;
+			} 100% {
+				transform: scale(1);
+    			opacity: 0;
+			}
+		}
+	</style>
+</svg>

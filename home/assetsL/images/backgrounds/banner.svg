@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1920px" height="620px" viewBox="0 0 1920 620" enable-background="new 0 0 1920 620" xml:space="preserve">
+<rect x="0" y="0" fill="#F9F8F8" width="1920" height="620"/>
+<g opacity="0.05" class="circle circle-one">
+	<path fill="#1C191A" d="M144.993,859.837c-44.825,0-88.342-8.793-129.34-26.134c-39.57-16.736-75.094-40.684-105.587-71.177
+		s-54.44-66.018-71.176-105.588c-17.341-40.998-26.133-84.515-26.133-129.34s8.792-88.341,26.134-129.34
+		c16.736-39.569,40.684-75.094,71.176-105.586c30.492-30.493,66.017-54.44,105.586-71.177
+		c40.999-17.341,84.515-26.133,129.34-26.133s88.342,8.792,129.34,26.133c39.569,16.737,75.094,40.684,105.586,71.177
+		c30.493,30.493,54.44,66.017,71.176,105.586c17.341,40.999,26.134,84.515,26.134,129.34s-8.792,88.342-26.133,129.34
+		c-16.736,39.57-40.684,75.095-71.176,105.588s-66.017,54.44-105.587,71.177C233.335,851.044,189.818,859.837,144.993,859.837z
+		 M144.993,315.362c-117.028,0-212.237,95.209-212.237,212.236c0,117.028,95.209,212.238,212.237,212.238
+		s212.237-95.21,212.237-212.238C357.23,410.571,262.021,315.362,144.993,315.362z"/>
+</g>
+<g opacity="0.05" class="circle circle-three">
+	<path fill="#EB354E" d="M1800.91,682.846c-44.824,0-88.342-8.793-129.34-26.135c-39.57-16.736-75.094-40.684-105.587-71.176
+		c-30.493-30.494-54.44-66.018-71.177-105.588c-17.34-40.998-26.133-84.516-26.133-129.34c0-44.826,8.793-88.341,26.134-129.34
+		c16.736-39.569,40.684-75.094,71.177-105.586c30.492-30.493,66.017-54.44,105.586-71.177
+		c40.998-17.341,84.516-26.133,129.34-26.133c44.826,0,88.342,8.792,129.341,26.133c39.569,16.737,75.095,40.684,105.587,71.177
+		c30.492,30.493,54.439,66.017,71.176,105.586c17.342,40.999,26.134,84.515,26.134,129.34c0,44.824-8.792,88.342-26.134,129.34
+		c-16.736,39.57-40.684,75.094-71.176,105.588c-30.492,30.492-66.018,54.439-105.587,71.176
+		C1889.252,674.053,1845.736,682.846,1800.91,682.846z M1800.91,138.371c-117.027,0-212.236,95.209-212.236,212.237
+		c0,117.027,95.209,212.238,212.236,212.238c117.028,0,212.237-95.211,212.237-212.238
+		C2013.147,233.58,1917.938,138.371,1800.91,138.371z"/>
+</g>
+<circle class="circle circle-two" opacity="0.05" fill="#EB354E" cx="504.115" cy="126.366" r="68.997"/>
+<circle class="circle circle-two" opacity="0.05" fill="#1C191A" cx="1336.572" cy="553.099" r="43.498"/>
+
+	<style>
+		.circle {
+			-webkit-transform-origin: 50% 50%;
+			transform-origin: 50% 50%;
+		}
+		.circle-one {
+			-webkit-animation: circle-1 8s ease-in-out infinite;
+			animation: circle-1 8s ease-in-out infinite;
+		}
+		.circle-two {
+			-webkit-animation: circle-2 8s ease-in-out infinite;
+			animation: circle-2 8s ease-in-out infinite;
+		}
+		.circle-three {
+			-webkit-animation: circle-3 6s ease-in-out infinite;
+			animation: circle-3 6s ease-in-out infinite;
+		}
+
+		@keyframes circle-1 {
+			0%, 100% {
+				transform: scale(1) translateY(0);
+			} 55% {
+				transform: scale(1.1) translateY(-100px);
+			}
+		}
+
+		@-webkit-keyframes circle-1 {
+			0%, 100% {
+				transform: scale(1) translateY(0);
+			} 55% {
+				transform: scale(1.1) translateY(-100px);
+			}
+		}
+
+		@keyframes circle-2 {
+			0%, 97%, 100% {
+				transform: scale(1);
+			} 20% {
+				transform: scaleY(0.95) scaleX(1.05);
+			} 48% {
+				transform: scaleY(1.1) scaleX(0.9);
+			} 68% {
+				transform: scaleY(0.98) scaleX(1.02);
+			} 80% {
+				transform: scaleY(1.02) scaleX(0.98);
+			}
+		}
+
+		@-webkit-keyframes circle-2 {
+			0%, 97%, 100% {
+				transform: scale(1);
+			} 20% {
+				transform: scaleY(0.95) scaleX(1.05);
+			} 48% {
+				transform: scaleY(1.1) scaleX(0.9);
+			} 68% {
+				transform: scaleY(0.98) scaleX(1.02);
+			} 80% {
+				transform: scaleY(1.02) scaleX(0.98);
+			}
+		}
+
+		@keyframes circle-3 {
+			0%, 100% {
+				transform: scale(1);
+			} 55% {
+				transform: scale(1.1);
+			}
+		}
+
+		@-webkit-keyframes circle-3 {
+			0%, 100% {
+				transform: scale(1);
+			} 55% {
+				transform: scale(1.1);
+			}
+		}
+	</style>
+</svg>
