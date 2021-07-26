@@ -10,7 +10,7 @@
     <meta name="description" content="Kaafla Pakistan | Islamabad">
     <meta name="keywords" content="listing dashboard, directory panel, listing, responsive directory, directory template, themeforest, listing template, css3, html5">
 
-    <title>hello  Kaafla Pakistan | Islamabad </title>
+    <title>hello    Kaafla Pakistan | Islamabad </title>
 
     <!-- Favicon -->
     <link href=" assetsL/images/logos/favicon.png" rel="icon">
