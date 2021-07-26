@@ -10,7 +10,7 @@
     <meta name="description" content="Kaafla Pakistan | Islamabad">
     <meta name="keywords" content="listing dashboard, directory panel, listing, responsive directory, directory template, themeforest, listing template, css3, html5">
 
-    <title>Kaafla Pakistan | Islamabad </title>
+    <title>hello Kaafla Pakistan | Islamabad </title>
 
     <!-- Favicon -->
     <link href=" assetsL/images/logos/favicon.png" rel="icon">
@@ -62,6 +62,7 @@
 
 
 <!--Sliders Section-->
+
 		<section>
 			<div class="banner-1 cover-image sptb-2 sptb-tab bg-background2" data-image-src="assetsP//images/banners/banner1.jpg">
 				<div class="header-text mb-0">
